@@ -1,0 +1,537 @@
+Enemies&Other.png
+size: 16383, 8786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 15153, 3057
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+BatDeathAnim 8
+  rotate: false
+  xy: 8280, 7768
+  size: 3752, 359
+  orig: 3752, 359
+  offset: 0, 0
+  index: -1
+BatFly 10
+  rotate: false
+  xy: 3200, 8017
+  size: 4911, 259
+  orig: 4911, 259
+  offset: 0, 0
+  index: -1
+BatIdle
+  rotate: false
+  xy: 13909, 3798
+  size: 414, 238
+  orig: 414, 238
+  offset: 0, 0
+  index: -1
+BossBlock
+  rotate: false
+  xy: 16221, 1253
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BossSwordClouds
+  rotate: false
+  xy: 0, 5514
+  size: 10390, 1378
+  orig: 10390, 1378
+  offset: 0, 0
+  index: -1
+BossSwordExplosion
+  rotate: false
+  xy: 0, 0
+  size: 13690, 5514
+  orig: 13690, 5514
+  offset: 0, 0
+  index: -1
+Buy3Hp
+  rotate: false
+  xy: 15653, 1510
+  size: 567, 481
+  orig: 567, 481
+  offset: 0, 0
+  index: -1
+Buy3HpPressed
+  rotate: false
+  xy: 15429, 3753
+  size: 565, 394
+  orig: 565, 394
+  offset: 0, 0
+  index: -1
+BuyHp
+  rotate: false
+  xy: 14021, 2919
+  size: 567, 475
+  orig: 567, 475
+  offset: 0, 0
+  index: -1
+BuyHpPressed
+  rotate: false
+  xy: 15465, 2948
+  size: 573, 401
+  orig: 573, 401
+  offset: 0, 0
+  index: -1
+BuySword1
+  rotate: false
+  xy: 14024, 2442
+  size: 565, 477
+  orig: 565, 477
+  offset: 0, 0
+  index: -1
+BuySword1Pressed
+  rotate: false
+  xy: 14588, 3057
+  size: 565, 404
+  orig: 565, 404
+  offset: 0, 0
+  index: -1
+BuySword2
+  rotate: false
+  xy: 15652, 1991
+  size: 565, 480
+  orig: 565, 480
+  offset: 0, 0
+  index: -1
+BuySword2Pressed
+  rotate: false
+  xy: 15462, 3349
+  size: 565, 404
+  orig: 565, 404
+  offset: 0, 0
+  index: -1
+BuySword3
+  rotate: false
+  xy: 15588, 2471
+  size: 565, 477
+  orig: 565, 477
+  offset: 0, 0
+  index: -1
+BuySword3Pressed
+  rotate: false
+  xy: 13990, 3394
+  size: 565, 404
+  orig: 565, 404
+  offset: 0, 0
+  index: -1
+BuySword4
+  rotate: false
+  xy: 15656, 1023
+  size: 565, 487
+  orig: 565, 487
+  offset: 0, 0
+  index: -1
+BuySword4Pressed
+  rotate: false
+  xy: 14555, 3461
+  size: 565, 404
+  orig: 565, 404
+  offset: 0, 0
+  index: -1
+Credits
+  rotate: false
+  xy: 14636, 1023
+  size: 1020, 418
+  orig: 1020, 418
+  offset: 0, 0
+  index: -1
+CreditsPressed
+  rotate: false
+  xy: 14636, 1441
+  size: 1017, 414
+  orig: 1017, 414
+  offset: 0, 0
+  index: -1
+DarkAttack
+  rotate: false
+  xy: 15153, 3366
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+DarkJump
+  rotate: false
+  xy: 13690, 4036
+  size: 341, 230
+  orig: 341, 230
+  offset: 0, 0
+  index: -1
+DarkLeftArrow
+  rotate: false
+  xy: 16135, 0
+  size: 230, 341
+  orig: 230, 341
+  offset: 0, 0
+  index: -1
+DarkMiddle
+  rotate: false
+  xy: 16027, 3479
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+DarkPhase
+  rotate: false
+  xy: 15120, 3675
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+DarkRightArrow
+  rotate: false
+  xy: 16135, 341
+  size: 230, 341
+  orig: 230, 341
+  offset: 0, 0
+  index: -1
+EasyProjectile
+  rotate: false
+  xy: 14372, 4242
+  size: 296, 129
+  orig: 296, 129
+  offset: 0, 0
+  index: -1
+EmptyPotion
+  rotate: false
+  xy: 13690, 3104
+  size: 300, 421
+  orig: 300, 421
+  offset: 0, 0
+  index: -1
+EnemyHealthBarEmpty
+  rotate: false
+  xy: 13690, 0
+  size: 2445, 341
+  orig: 2445, 341
+  offset: 0, 0
+  index: -1
+EnemyHealthBarFull
+  rotate: false
+  xy: 13690, 341
+  size: 2445, 341
+  orig: 2445, 341
+  offset: 0, 0
+  index: -1
+EnemyHealthBarOnly
+  rotate: false
+  xy: 14319, 4417
+  size: 1774, 272
+  orig: 1774, 272
+  offset: 0, 0
+  index: -1
+EnemyHealthBarReduced
+  rotate: false
+  xy: 13690, 682
+  size: 2445, 341
+  orig: 2445, 341
+  offset: 0, 0
+  index: -1
+equals1Hp
+  rotate: false
+  xy: 15045, 3984
+  size: 368, 247
+  orig: 368, 247
+  offset: 0, 0
+  index: -1
+ExplosionAnim 10
+  rotate: false
+  xy: 3200, 7483
+  size: 5080, 534
+  orig: 5080, 534
+  offset: 0, 0
+  index: -1
+FullHealth
+  rotate: false
+  xy: 13690, 2699
+  size: 331, 405
+  orig: 331, 405
+  offset: 0, 0
+  index: -1
+GameNebula
+  rotate: false
+  xy: 10390, 5514
+  size: 3200, 1800
+  orig: 3200, 1800
+  offset: 0, 0
+  index: -1
+HardProjectile
+  rotate: false
+  xy: 13690, 4266
+  size: 299, 128
+  orig: 299, 128
+  offset: 0, 0
+  index: -1
+HUDBackground
+  rotate: false
+  xy: 14323, 3865
+  size: 722, 192
+  orig: 722, 192
+  offset: 0, 0
+  index: -1
+HUDDashBar
+  rotate: false
+  xy: 13989, 4371
+  size: 657, 32
+  orig: 657, 32
+  offset: 0, 0
+  index: -1
+HUDDashBarFull
+  rotate: false
+  xy: 15169, 4380
+  size: 657, 32
+  orig: 657, 32
+  offset: 0, 0
+  index: -1
+HUDDashBarOnlypsd
+  rotate: false
+  xy: 13690, 4403
+  size: 629, 22
+  orig: 629, 22
+  offset: 0, 0
+  index: -1
+HUpperTurret
+  rotate: false
+  xy: 14372, 4057
+  size: 402, 185
+  orig: 402, 185
+  offset: 0, 0
+  index: -1
+Jump
+  rotate: false
+  xy: 14031, 4057
+  size: 341, 230
+  orig: 341, 230
+  offset: 0, 0
+  index: -1
+LeftArrow
+  rotate: false
+  xy: 16135, 682
+  size: 230, 341
+  orig: 230, 341
+  offset: 0, 0
+  index: -1
+LeftBlue
+  rotate: false
+  xy: 16221, 1353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeftGreen
+  rotate: false
+  xy: 16221, 1453
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeftPink
+  rotate: false
+  xy: 16220, 1553
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeftPurple
+  rotate: false
+  xy: 16220, 1653
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LowerTurret
+  rotate: false
+  xy: 15413, 4147
+  size: 381, 233
+  orig: 381, 233
+  offset: 0, 0
+  index: -1
+MenuNebula
+  rotate: false
+  xy: 0, 6892
+  size: 3200, 1800
+  orig: 3200, 1800
+  offset: 0, 0
+  index: -1
+Middle
+  rotate: false
+  xy: 15994, 3788
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+MiddleBlue
+  rotate: false
+  xy: 16220, 1753
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+MiddleGreen
+  rotate: false
+  xy: 16220, 1853
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+MiddlePink
+  rotate: false
+  xy: 16220, 1953
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+MiddlePurple
+  rotate: false
+  xy: 16217, 2053
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+MinusSound
+  rotate: false
+  xy: 16153, 2812
+  size: 223, 246
+  orig: 223, 246
+  offset: 0, 0
+  index: -1
+NoHealth
+  rotate: false
+  xy: 13690, 2297
+  size: 334, 402
+  orig: 334, 402
+  offset: 0, 0
+  index: -1
+Phase
+  rotate: false
+  xy: 15994, 4097
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 14591, 2254
+  size: 997, 387
+  orig: 997, 387
+  offset: 0, 0
+  index: -1
+PlayPressed
+  rotate: false
+  xy: 14636, 1855
+  size: 1016, 399
+  orig: 1016, 399
+  offset: 0, 0
+  index: -1
+PlusSound
+  rotate: false
+  xy: 13690, 3787
+  size: 219, 242
+  orig: 219, 242
+  offset: 0, 0
+  index: -1
+Potion
+  rotate: false
+  xy: 14110, 1023
+  size: 526, 946
+  orig: 526, 946
+  offset: 0, 0
+  index: -1
+reducedPotion
+  rotate: false
+  xy: 16038, 3058
+  size: 300, 421
+  orig: 300, 421
+  offset: 0, 0
+  index: -1
+RightArrow
+  rotate: false
+  xy: 16153, 2471
+  size: 230, 341
+  orig: 230, 341
+  offset: 0, 0
+  index: -1
+SoundBar
+  rotate: false
+  xy: 16221, 1023
+  size: 109, 230
+  orig: 109, 230
+  offset: 0, 0
+  index: -1
+SoundIcon
+  rotate: false
+  xy: 13690, 3525
+  size: 203, 262
+  orig: 203, 262
+  offset: 0, 0
+  index: -1
+SpinBlade 10
+  rotate: false
+  xy: 9308, 7314
+  size: 6927, 454
+  orig: 6927, 454
+  offset: 0, 0
+  index: -1
+SpinBladeIdle
+  rotate: false
+  xy: 14110, 1969
+  size: 481, 473
+  orig: 481, 473
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 13690, 1023
+  size: 420, 1274
+  orig: 420, 1274
+  offset: 0, 0
+  index: -1
+TestCircle
+  rotate: false
+  xy: 16217, 2153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TestCircleDown
+  rotate: false
+  xy: 16217, 2253
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TurtleBuck 6
+  rotate: false
+  xy: 3200, 6892
+  size: 6108, 591
+  orig: 6108, 591
+  offset: 0, 0
+  index: -1
+TurtleIdle
+  rotate: false
+  xy: 14589, 2641
+  size: 876, 416
+  orig: 876, 416
+  offset: 0, 0
+  index: -1
+TurtleStab 10
+  rotate: false
+  xy: 3200, 8276
+  size: 10311, 510
+  orig: 10311, 510
+  offset: 0, 0
+  index: -1
+UpperTurret
+  rotate: false
+  xy: 14774, 4231
+  size: 395, 186
+  orig: 395, 186
+  offset: 0, 0
+  index: -1

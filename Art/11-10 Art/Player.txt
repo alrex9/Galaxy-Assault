@@ -1,0 +1,75 @@
+Player.png
+size: 16018, 7280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PlayerCombo(1) 16
+  rotate: false
+  xy: 1, 1
+  size: 15008, 808
+  orig: 15008, 808
+  offset: 0, 0
+  index: -1
+PlayerCombo(2) 16
+  rotate: false
+  xy: 1, 811
+  size: 15136, 818
+  orig: 15136, 818
+  offset: 0, 0
+  index: -1
+PlayerDash 10
+  rotate: false
+  xy: 1, 1631
+  size: 12190, 961
+  orig: 12190, 961
+  offset: 0, 0
+  index: -1
+PlayerDeath 16
+  rotate: false
+  xy: 1, 2594
+  size: 9744, 843
+  orig: 9744, 843
+  offset: 0, 0
+  index: -1
+PlayerDoubleJump 10
+  rotate: false
+  xy: 1, 3439
+  size: 7310, 800
+  orig: 7310, 800
+  offset: 0, 0
+  index: -1
+PlayerIdle
+  rotate: false
+  xy: 7313, 3439
+  size: 400, 800
+  orig: 400, 800
+  offset: 0, 0
+  index: -1
+PlayerJumpAttack 10
+  rotate: false
+  xy: 1, 4241
+  size: 10950, 1108
+  orig: 10950, 1108
+  offset: 0, 0
+  index: -1
+PlayerJumping 4
+  rotate: false
+  xy: 10953, 4241
+  size: 2050, 824
+  orig: 2050, 824
+  offset: 0, 0
+  index: -1
+PlayerRunning 16
+  rotate: false
+  xy: 1, 5351
+  size: 12784, 895
+  orig: 12784, 895
+  offset: 0, 0
+  index: -1
+PlayerSlash 16
+  rotate: false
+  xy: 1, 6248
+  size: 16016, 1031
+  orig: 16016, 1031
+  offset: 0, 0
+  index: -1

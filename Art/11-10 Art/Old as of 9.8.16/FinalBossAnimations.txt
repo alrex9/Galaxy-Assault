@@ -1,0 +1,40 @@
+FinalBossAnimations.png
+size: 9062, 4134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FinalBossDeath
+  rotate: false
+  xy: 1, 1
+  size: 8154, 916
+  orig: 8244, 939
+  offset: 35, 0
+  index: -1
+FinalBossFly
+  rotate: false
+  xy: 1, 3563
+  size: 8976, 570
+  orig: 9050, 643
+  offset: 72, 27
+  index: -1
+FinalBossGunShots
+  rotate: false
+  xy: 1, 919
+  size: 8439, 882
+  orig: 8500, 933
+  offset: 17, 2
+  index: -1
+FinalBossSprayFire
+  rotate: false
+  xy: 1, 1803
+  size: 8464, 879
+  orig: 8500, 884
+  offset: 17, 3
+  index: -1
+FinalBossSwoop
+  rotate: false
+  xy: 1, 2684
+  size: 9060, 877
+  orig: 9220, 937
+  offset: 53, 15
+  index: -1

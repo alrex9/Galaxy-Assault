@@ -1,0 +1,61 @@
+BossThree.png
+size: 13884, 3340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossThreeCharge 7
+  rotate: false
+  xy: 7233, 1
+  size: 6650, 572
+  orig: 6650, 572
+  offset: 0, 0
+  index: -1
+BossThreeDeath 10
+  rotate: false
+  xy: 1, 1469
+  size: 10420, 1161
+  orig: 10420, 1161
+  offset: 0, 0
+  index: -1
+BossThreeIdle
+  rotate: false
+  xy: 405, 1
+  size: 514, 574
+  orig: 514, 574
+  offset: 0, 0
+  index: -1
+BossThreeMagnet 10
+  rotate: false
+  xy: 1, 2632
+  size: 10594, 707
+  orig: 10594, 707
+  offset: 0, 0
+  index: -1
+BossThreeThrowing 10
+  rotate: false
+  xy: 1, 678
+  size: 8980, 789
+  orig: 8980, 789
+  offset: 0, 0
+  index: -1
+BossThreeWalk 10
+  rotate: false
+  xy: 921, 1
+  size: 6310, 675
+  orig: 6310, 675
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: false
+  xy: 203, 1
+  size: 200, 360
+  orig: 200, 360
+  offset: 0, 0
+  index: -1
+Hammer2
+  rotate: false
+  xy: 1, 1
+  size: 200, 360
+  orig: 200, 360
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+BossOneAnimations-0.png
+size: 15463, 1910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossOneRun
+  rotate: false
+  xy: 1, 1
+  size: 15461, 579
+  orig: 15600, 583
+  offset: 39, 0
+  index: -1
+BossOneSmash
+  rotate: false
+  xy: 1, 582
+  size: 15172, 769
+  orig: 15174, 769
+  offset: 2, 0
+  index: -1
+BossOneStompFeet
+  rotate: false
+  xy: 1, 1353
+  size: 10060, 556
+  orig: 10080, 568
+  offset: 0, 0
+  index: -1

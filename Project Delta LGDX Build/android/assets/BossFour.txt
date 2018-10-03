@@ -1,0 +1,47 @@
+BossFour.png
+size: 9220, 4336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossFourDeath 9
+  rotate: false
+  xy: 600, 0
+  size: 8244, 939
+  orig: 8244, 939
+  offset: 0, 0
+  index: -1
+BossFourFly 10
+  rotate: false
+  xy: 0, 2756
+  size: 9050, 643
+  orig: 9050, 643
+  offset: 0, 0
+  index: -1
+BossFourGunShots 10
+  rotate: false
+  xy: 0, 939
+  size: 8500, 933
+  orig: 8500, 933
+  offset: 0, 0
+  index: -1
+BossFourSprayFire 10
+  rotate: false
+  xy: 0, 1872
+  size: 8500, 884
+  orig: 8500, 884
+  offset: 0, 0
+  index: -1
+BossFourSwoop 10
+  rotate: false
+  xy: 0, 3399
+  size: 9220, 937
+  orig: 9220, 937
+  offset: 0, 0
+  index: -1
+FinalBossProjectile
+  rotate: false
+  xy: 0, 0
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+BossThreeAnimations-0.png
+size: 10256, 4345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossThreeCharge
+  rotate: false
+  xy: 1, 2073
+  size: 8984, 777
+  orig: 9505, 778
+  offset: 362, 1
+  index: -1
+BossThreeDeath
+  rotate: false
+  xy: 1, 1
+  size: 10254, 1236
+  orig: 10504, 1252
+  offset: 250, 8
+  index: -1
+BossThreeMagnet
+  rotate: false
+  xy: 1, 1239
+  size: 10059, 832
+  orig: 10620, 844
+  offset: 325, 8
+  index: -1
+BossThreeThrowing
+  rotate: false
+  xy: 1, 2852
+  size: 8582, 800
+  orig: 8976, 810
+  offset: 252, 3
+  index: -1
+BossThreeWalk
+  rotate: false
+  xy: 1, 3654
+  size: 6180, 690
+  orig: 6314, 695
+  offset: 126, 5
+  index: -1

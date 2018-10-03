@@ -1,0 +1,2 @@
+hp	volume	potions	BossSword1	BossSword2	BosSword3	BossSword4
+3	3	0	0	0	0	0

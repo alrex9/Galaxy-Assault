@@ -1,0 +1,75 @@
+BossOne.png
+size: 15602, 2626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BossOneButtSmash 18
+  rotate: false
+  xy: 1, 1856
+  size: 15174, 769
+  orig: 15174, 769
+  offset: 0, 0
+  index: -1
+BossOneDeath 10
+  rotate: false
+  xy: 2300, 1
+  size: 11550, 559
+  orig: 11550, 559
+  offset: 0, 0
+  index: -1
+BossOneGust 3
+  rotate: false
+  xy: 462, 1
+  size: 663, 400
+  orig: 663, 400
+  offset: 0, 0
+  index: -1
+BossOneIdle
+  rotate: false
+  xy: 1454, 1
+  size: 844, 455
+  orig: 844, 455
+  offset: 0, 0
+  index: -1
+BossOneLegsUp 6
+  rotate: false
+  xy: 10083, 562
+  size: 5436, 707
+  orig: 5436, 707
+  offset: 0, 0
+  index: -1
+BossOneRun 16
+  rotate: false
+  xy: 1, 1271
+  size: 15600, 583
+  orig: 15600, 583
+  offset: 0, 0
+  index: -1
+BossOneStompFeet 12
+  rotate: false
+  xy: 1, 562
+  size: 10080, 568
+  orig: 10080, 568
+  offset: 0, 0
+  index: -1
+Rock1
+  rotate: false
+  xy: 1127, 1
+  size: 325, 429
+  orig: 325, 429
+  offset: 0, 0
+  index: -1
+Rock2
+  rotate: false
+  xy: 248, 1
+  size: 212, 341
+  orig: 212, 341
+  offset: 0, 0
+  index: -1
+Rock3
+  rotate: false
+  xy: 1, 1
+  size: 245, 325
+  orig: 245, 325
+  offset: 0, 0
+  index: -1

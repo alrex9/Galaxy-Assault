@@ -1,0 +1,61 @@
+PlayerAnimations.png
+size: 17616, 5632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PlayerCombo(1)
+  rotate: false
+  xy: 1, 2879
+  size: 14941, 800
+  orig: 15008, 808
+  offset: 51, 2
+  index: -1
+PlayerCombo(2)
+  rotate: false
+  xy: 1, 2067
+  size: 14994, 810
+  orig: 15136, 818
+  offset: 51, 2
+  index: -1
+PlayerDeath
+  rotate: false
+  xy: 6996, 3681
+  size: 8819, 839
+  orig: 9744, 843
+  offset: 83, 0
+  index: -1
+PlayerDoubleJump
+  rotate: false
+  xy: 1, 3681
+  size: 6993, 1056
+  orig: 7310, 1070
+  offset: 255, 0
+  index: -1
+PlayerJumpAttack
+  rotate: false
+  xy: 1, 1
+  size: 17200, 1039
+  orig: 17504, 1104
+  offset: 106, 58
+  index: -1
+PlayerJumping
+  rotate: false
+  xy: 12409, 4522
+  size: 5206, 815
+  orig: 5360, 824
+  offset: 117, 1
+  index: -1
+PlayerRunning
+  rotate: false
+  xy: 1, 4739
+  size: 12406, 892
+  orig: 12784, 895
+  offset: 281, 1
+  index: -1
+PlayerSlash
+  rotate: false
+  xy: 1, 1042
+  size: 15810, 1023
+  orig: 16016, 1031
+  offset: 97, 1
+  index: -1
